@@ -1,8 +1,7 @@
 ### Hi there 👋
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=andressltz&count_private=true&show_icons=true&theme=github_dark&line_height=27) 
 ![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=andressltz&theme=github_dark&layout=compact)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=andressltz&count_private=true&show_icons=true&theme=github_dark&line_height=27)
 
 <!--
 **andressltz/andressltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
