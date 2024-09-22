@@ -8,5 +8,4 @@
 - 🎓 I'm currently studyng Science of Computer (Bachelor's degree)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andressltz)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=andressltz&count_private=true&show_icons=true&theme=github_dark&line_height=27) 
 ![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=andressltz&theme=github_dark&layout=compact)
