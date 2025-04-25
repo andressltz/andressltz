@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as Senior Software Developer at [CWI Software](https://www.cwi.com.br)
 - 🌱 I’m currently learning React Native, but my main stack is Java
-- 🎓 I'm currently studyng Science of Computer (Bachelor's degree)
+- 🎓 Bachelor of Computer Science (Bachelor's Degree)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andressltz)
 
 ![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=andressltz&theme=github_dark&layout=compact)
